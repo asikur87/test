@@ -12,5 +12,6 @@ public class Main {
         //System.out.println("Bismillahir Rahmanir Rahim");
         System.out.println(a);
         Scanner sc=new Scanner(System.in);
+        System.out.println("hekdsffdjf");
     }
 }
